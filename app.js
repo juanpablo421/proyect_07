@@ -23,7 +23,7 @@ const main = async () => {
         const datoconvertido = math.conversionDatos(dato);
         console.log(`El resultado de conversion es: ${datoconvertido}`);
     }
-    console.log('***********************************************************************************************************\n'.green);
+    console.log('***************************************************************************************************************************\n'.green);
 }
 
 
